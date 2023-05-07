@@ -1,0 +1,74 @@
+Statistika Sun May 07 13:13:06 CEST 2023:
+
+FIFO:
+Block size:	 8
+Block num:	 128
+Set associativity:	 4
+Hit count:	 8556632
+Miss count:	 142207
+Hit rate:	 98.37
+----------------------------------------
+LFU:
+Block size:	 8
+Block num:	 128
+Set associativity:	 4
+Hit count:	 7554287
+Miss count:	 1144552
+Hit rate:	 86.84
+----------------------------------------
+LRU-K:
+Block size:	 8
+Block num:	 128
+Set associativity:	 4
+Hit count:	 7481137
+Miss count:	 1217702
+Hit rate:	 86.00
+----------------------------------------
+LRU:
+Block size:	 8
+Block num:	 128
+Set associativity:	 4
+Hit count:	 8587719
+Miss count:	 111120
+Hit rate:	 98.72
+----------------------------------------
+MPLRU:
+Block size:	 8
+Block num:	 128
+Set associativity:	 4
+Hit count:	 7481563
+Miss count:	 1217276
+Hit rate:	 86.01
+----------------------------------------
+NRU:
+Block size:	 8
+Block num:	 128
+Set associativity:	 4
+Hit count:	 8588037
+Miss count:	 110802
+Hit rate:	 98.73
+----------------------------------------
+One Bit:
+Block size:	 8
+Block num:	 128
+Set associativity:	 4
+Hit count:	 8580837
+Miss count:	 118002
+Hit rate:	 98.64
+----------------------------------------
+Pseudo LRU:
+Block size:	 8
+Block num:	 128
+Set associativity:	 4
+Hit count:	 8588238
+Miss count:	 110601
+Hit rate:	 98.73
+----------------------------------------
+SIDE:
+Block size:	 8
+Block num:	 128
+Set associativity:	 4
+Hit count:	 8573477
+Miss count:	 125362
+Hit rate:	 98.56
+----------------------------------------

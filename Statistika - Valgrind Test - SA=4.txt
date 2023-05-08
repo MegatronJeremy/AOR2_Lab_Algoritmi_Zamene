@@ -1,4 +1,4 @@
-Statistika Sun May 07 13:13:06 CEST 2023:
+Statistika Mon May 08 23:07:56 CEST 2023:
 
 FIFO:
 Block size:	 8
@@ -52,9 +52,17 @@ One Bit:
 Block size:	 8
 Block num:	 128
 Set associativity:	 4
-Hit count:	 8580837
-Miss count:	 118002
+Hit count:	 8580745
+Miss count:	 118094
 Hit rate:	 98.64
+----------------------------------------
+SIDE:
+Block size:	 8
+Block num:	 128
+Set associativity:	 4
+Hit count:	 8584986
+Miss count:	 113853
+Hit rate:	 98.69
 ----------------------------------------
 Pseudo LRU:
 Block size:	 8
@@ -63,12 +71,4 @@ Set associativity:	 4
 Hit count:	 8588238
 Miss count:	 110601
 Hit rate:	 98.73
-----------------------------------------
-SIDE:
-Block size:	 8
-Block num:	 128
-Set associativity:	 4
-Hit count:	 8573477
-Miss count:	 125362
-Hit rate:	 98.56
 ----------------------------------------

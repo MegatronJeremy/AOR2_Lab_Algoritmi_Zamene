@@ -58,7 +58,7 @@ public class SIDEReplacementPolicy implements IReplacementPolicy {
         }
 
         if (entry >= counters.get(set)) {
-            counters.set(set, (counters.get(set) + 1) % setAsoc);
+            counters.set(set, (entry + 1) % setAsoc);
         }
     }
 

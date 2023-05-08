@@ -37,7 +37,7 @@ public class NRUReplacementPolicy implements IReplacementPolicy {
             }
         }
 
-        return -1;
+        return 0;
     }
 
     @Override
